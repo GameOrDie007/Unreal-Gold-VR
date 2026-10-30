@@ -1,0 +1,22 @@
+Unreal Gold VR: credits
+
+Unreal Gold VR is a Game Or Die project.
+
+Unreal Gold by Epic Games and Digital Extremes. Epic made it free; Setup downloads the original CD
+from the Internet Archive when you don't have a copy. No game files are in this download.
+
+OldUnreal's 227k patch (https://github.com/OldUnreal/Unreal-testing): the game runs on it, and Setup downloads it from
+OldUnreal's GitHub when your copy doesn't have it. Not part of this download.
+
+XOpenGLVRDrv.dll is a fork of OldUnreal's XOpenGLDrv (https://github.com/OldUnreal/XOpenGLDrv),
+under the BSD 3-Clause license: LICENSE-XOpenGL.md.
+
+openxr_loader.dll is Khronos' OpenXR loader (https://github.com/KhronosGroup/OpenXR-SDK),
+under the Apache License 2.0: LICENSE-Apache-2.0.txt.
+
+The Game Tome holds the game's original manuals (Unreal and Return to Na Pali), (c) Epic Games.
+
+Thanks to the OldUnreal team for keeping the engine alive, GHWST for the Quest ports, and
+Team Beef (https://www.teambeefvr.com/), whose VR ports set the pattern.
+
+This is a fan project, not affiliated with or endorsed by Epic Games or OldUnreal.

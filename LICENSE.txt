@@ -1,0 +1,9 @@
+Unreal Gold VR
+Copyright (c) 2026 Game Or Die. All rights reserved, except the parts by others, which keep
+their own licenses: see CREDITS.txt.
+
+Free to download and use. You may share this download unchanged. You may not sell it, or
+publish changed copies of it as your own.
+
+Unreal Gold itself is not part of this download: it is Epic Games', and Setup gets it for you.
+The Game Or Die name and logo are not licensed for use by anyone else.
