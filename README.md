@@ -156,6 +156,7 @@ It runs at 90 Hz with 4x anti-aliasing.
 | B | duck |
 | X | next weapon |
 | Left stick | move |
+| Left stick click | the Translator (messages and hints) |
 | Right stick | turn (smooth, or in steps: VR Options) |
 | Left menu button | game menu |
 | Both palms up together (a second) | the Game Tome |
